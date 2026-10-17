@@ -1,4 +1,4 @@
-<img src="pws-header.png>
+![Header](pws-header.png)
 
 An automatic plant irrigation system built on the **ESP32**. It monitors soil moisture and air conditions, waters the plant with a non-blocking *pulse-and-soak* state machine, shows live data and a "plant mood" face on an OLED display, streams readings to the **Blynk** app, and logs history to **Google Sheets**.
 
